@@ -8,7 +8,10 @@ Database Configuration
 Open phpmyadmin
 Create Database onlinecourse
 Import database onlinecourse.sql (available inside zip package)
-Open Your browser put inside browser “http://localhost/onlinecourse”
+Contact me
+Website Bikram Bhandari “https://bikramb.netlify.app/”
+Facebook Bikram Bhandari"https://www.facebook.com/BikramBhandari01"
+Youtube ABB OFFICIAL VLOP "https://www.youtube.com/@ABB_Official_Music"
 
 
 Login Details for admin 
