@@ -9,9 +9,8 @@ Open phpmyadmin
 Create Database onlinecourse
 Import database onlinecourse.sql (available inside zip package)
 Contact me
-Website Bikram Bhandari “https://mrbikram.netlify.app/”
+Website Bikram Bhandari “https://bikramb.com.cp”
 Facebook Bikram Bhandari"https://www.facebook.com/BikramBhandari01"
-Youtube ABB OFFICIAL VLOP "https://www.youtube.com/@ABB_Official_Music"
 
 
 Login Details for admin 
