@@ -9,7 +9,7 @@ Open phpmyadmin
 Create Database onlinecourse
 Import database onlinecourse.sql (available inside zip package)
 Contact me
-Website Bikram Bhandari “https://bikramb.com.cp”
+Website Bikram Bhandari “https://bikramb.com.np”
 Facebook Bikram Bhandari"https://www.facebook.com/BikramBhandari01"
 
 
